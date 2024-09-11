@@ -1,0 +1,4 @@
+### Query
+type Query {
+    hello: String
+}
